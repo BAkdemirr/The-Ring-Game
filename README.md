@@ -27,3 +27,5 @@ Oyunda halkanızı değiştirebileceğiniz satın alma sistemi de mevcuttur.
 
 
 Oyun ilerledikçe prosedürel olarak sonsuza kadar devam eder arkada kalan modeller silinir. Müzik ses ve mobil player inputları ayarlanmıştır.
+
+![thering6](https://user-images.githubusercontent.com/64818115/188943452-eafcdad3-7336-4bd4-92e5-fdd8fda42708.png)
