@@ -24,3 +24,6 @@ High score, money ve her 3 ölümde bir gelen skippable ad sistemi playerprefs i
 Oyunda halkanızı değiştirebileceğiniz satın alma sistemi de mevcuttur.
 
 ![thering5](https://user-images.githubusercontent.com/64818115/188942813-e08d9d6b-31f0-41ed-995e-42d49e7b4b98.png)
+
+
+Oyun ilerledikçe prosedürel olarak sonsuza kadar devam eder arkada kalan modeller silinir. Müzik ses ve mobil player inputları ayarlanmıştır.
